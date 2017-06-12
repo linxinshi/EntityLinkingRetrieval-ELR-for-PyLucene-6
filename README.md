@@ -1,4 +1,4 @@
-# EntityLinkingRetrieval-ELR-for-PyLucene-6
+# EntityLinkingRetrieval-ELR for PyLucene 6
 A slightly modified version of EntityLinkingRetrieval-ELR that works for PyLucene 6  
 
 Original version: https://github.com/hasibi/EntityLinkingRetrieval-ELR
