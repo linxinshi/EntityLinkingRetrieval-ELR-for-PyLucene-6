@@ -9,7 +9,8 @@ Mainly rewrite some functions in nordlys/retrieval/lucene_tools.py
 
 No copyright for modified part
 
-The copyright of unmodified part is owned by the original authors: 
+The copyright of unmodified part is owned by the original authors:  
+
 Faegheh Hasibi (faegheh.hasibi@idi.ntnu.no)  
 
 Krisztian Balog (krisztian.balog@uis.no)  
