@@ -5,7 +5,7 @@ Original version: https://github.com/hasibi/EntityLinkingRetrieval-ELR
 
 Mainly rewrite some functions in nordlys/retrieval/lucene_tools.py  
 
-Only works for index of original version. If you want to create your own index by Pylucene 6, use term vector to store value instead of textfield (or you can rewrite some functions in lucene_tools.py to make it work with lucene 6 fields).  
+Only works for index of original version. If you want to create your own index by Pylucene 6, use term vector to store value instead of textfield (or you can rewrite some functions in lucene_tools.py to support lucene 6 fields).  
 
 
 # License
